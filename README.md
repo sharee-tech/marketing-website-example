@@ -1,2 +1,2 @@
-# miles-technologies
-Website Developer Exercise - Option 2
+# marketing website example
+
